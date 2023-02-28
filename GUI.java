@@ -9,6 +9,9 @@ public GUI ()
 	this.setContentPane();
 	this.setVisible(true);
 	this.pack();
+
+
+	GUI g;
 }
 }
 
