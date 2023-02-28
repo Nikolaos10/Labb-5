@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 
 public class GUI extends JFrame {
 	
-public GUI () {
+public GUI (int a, int b) {
 
 
 	setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
