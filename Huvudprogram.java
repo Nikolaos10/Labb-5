@@ -7,12 +7,8 @@ public class Huvudprogram {
 
 	Tillståndsmaskin n = new Tillståndsmaskin();
 		
-		
 	GUI c = new GUI(n);
-	GUI clara;
-	
-	
-	
+
 	}
 
 }
