@@ -9,6 +9,7 @@ public class Huvudprogram {
 		
 		
 	GUI c = new GUI(n);
+	GUI clara;
 	
 	
 	
