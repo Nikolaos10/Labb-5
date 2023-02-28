@@ -10,8 +10,6 @@ public GUI ()
 	this.setVisible(true);
 	this.pack();
 
-
-	GUI g;
 }
 }
 
